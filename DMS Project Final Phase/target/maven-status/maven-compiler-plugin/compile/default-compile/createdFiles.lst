@@ -1,0 +1,12 @@
+com\example\dms_project_final_phase\MainApp.class
+com\example\dms_project_final_phase\BackpackService.class
+com\example\dms_project_final_phase\DbException.class
+com\example\dms_project_final_phase\DatabaseManager.class
+com\example\dms_project_final_phase\HelloApplication.class
+com\example\dms_project_final_phase\ItemType.class
+com\example\dms_project_final_phase\ItemDao.class
+com\example\dms_project_final_phase\HelloController.class
+module-info.class
+com\example\dms_project_final_phase\AppController.class
+com\example\dms_project_final_phase\ValidationException.class
+com\example\dms_project_final_phase\RunescapeItem.class

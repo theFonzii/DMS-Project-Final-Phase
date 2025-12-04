@@ -1,0 +1,63 @@
+/**
+ * David Alfonsi
+ * CEN 3024C - Software Development 1
+ * December 3rd, 2025
+ * theme.css
+ * This Stylesheet contains the rules and color themes for the MainApp GUI.
+ * Simple brown/tan Runescape-inspired palette.
+ * Keeps contrast high for readability.
+ */
+
+.root {
+    -fx-font-family: "Segoe UI", "Verdana", sans-serif;
+    -fx-background-color: #2b2114; /* dark brown */
+}
+
+.top-bar {
+    -fx-background-color: #5b3a1e;
+}
+
+.status-bar {
+    -fx-background-color: #5b3a1e;
+    -fx-text-fill: #f5e6c8;
+}
+
+.item-editor {
+    -fx-background-color: #c9a676; /* RuneScape parchment-ish tan */
+    -fx-border-color: #8a6b3a;
+    -fx-border-radius: 6;
+    -fx-background-radius: 6;
+}
+
+.section-title {
+    -fx-font-weight: bold;
+    -fx-font-size: 14px;
+}
+
+.table-view {
+    -fx-background-color: #f5e6c8;
+}
+
+.table-view .column-header,
+.table-view .filler {
+    -fx-background-color: #8a6b3a;
+    -fx-text-fill: #f5e6c8;
+}
+
+.label {
+    -fx-text-fill: #1b130a;
+}
+
+.status-bar .label {
+    -fx-text-fill: #f5e6c8;
+}
+
+.button {
+    -fx-background-color: #8a6b3a;
+    -fx-text-fill: #f5e6c8;
+    -fx-background-radius: 4;
+}
+
+.button:hover {
+    -fx-background-color: #a87f46;
+}
